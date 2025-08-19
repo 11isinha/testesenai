@@ -1,0 +1,13 @@
+span{
+    color:rgb(100, 11, 245);
+    font-size: 40px;
+}
+div{
+    background-color: cadetblue;
+    width: 200px;
+}
+.div2{
+    background-color: rgb(152, 235, 238);
+    width: 200px;
+    color:rgb(0, 28, 121)
+}
